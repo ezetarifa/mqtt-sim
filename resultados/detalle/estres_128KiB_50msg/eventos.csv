@@ -1,0 +1,462 @@
+tiempo_s,id,evento,etapa,cola_subida,cola_broker,cola_bajada
+0,0,generado,,0,0,0
+0,0,solicitud,subida,0,0,0
+0,0,inicio de servicio,subida,0,0,0
+0.02,1,generado,,0,0,0
+0.02,1,solicitud,subida,1,0,0
+0.04,2,generado,,1,0,0
+0.04,2,solicitud,subida,2,0,0
+0.06,3,generado,,2,0,0
+0.06,3,solicitud,subida,3,0,0
+0.08,4,generado,,3,0,0
+0.08,4,solicitud,subida,4,0,0
+0.1,5,generado,,4,0,0
+0.1,5,solicitud,subida,5,0,0
+0.1048712,0,fin de servicio,subida,5,0,0
+0.1048712,1,inicio de servicio,subida,4,0,0
+0.12000000000000001,6,generado,,4,0,0
+0.12000000000000001,6,solicitud,subida,5,0,0
+0.14,7,generado,,5,0,0
+0.14,7,solicitud,subida,6,0,0
+0.14093948537701656,0,solicitud,broker,6,0,0
+0.14093948537701656,0,inicio de servicio,broker,6,0,0
+0.14193948537701656,0,fin de servicio,broker,6,0,0
+0.14193948537701656,0,solicitud,bajada,6,0,0
+0.14193948537701656,0,inicio de servicio,bajada,6,0,0
+0.16,8,generado,,6,0,0
+0.16,8,solicitud,subida,7,0,0
+0.18,9,generado,,7,0,0
+0.18,9,solicitud,subida,8,0,0
+0.19999999999999998,10,generado,,8,0,0
+0.19999999999999998,10,solicitud,subida,9,0,0
+0.2097424,1,fin de servicio,subida,9,0,0
+0.2097424,2,inicio de servicio,subida,8,0,0
+0.21999999999999997,11,generado,,8,0,0
+0.21999999999999997,11,solicitud,subida,9,0,0
+0.23999999999999996,12,generado,,9,0,0
+0.23999999999999996,12,solicitud,subida,10,0,0
+0.24681068537701656,0,fin de servicio,bajada,10,0,0
+0.2512628202031427,1,solicitud,broker,10,0,0
+0.2512628202031427,1,inicio de servicio,broker,10,0,0
+0.2522628202031427,1,fin de servicio,broker,10,0,0
+0.2522628202031427,1,solicitud,bajada,10,0,0
+0.2522628202031427,1,inicio de servicio,bajada,10,0,0
+0.25999999999999995,13,generado,,10,0,0
+0.25999999999999995,13,descarte por buffer lleno,subida,10,0,0
+0.27999999999999997,14,generado,,10,0,0
+0.27999999999999997,14,descarte por buffer lleno,subida,10,0,0
+0.28883654061688513,0,recibido en receptor provisional,,10,0,0
+0.3,15,generado,,10,0,0
+0.3,15,descarte por buffer lleno,subida,10,0,0
+0.3146136,2,fin de servicio,subida,10,0,0
+0.3146136,3,inicio de servicio,subida,9,0,0
+0.32,16,generado,,9,0,0
+0.32,16,solicitud,subida,10,0,0
+0.34,17,generado,,10,0,0
+0.34,17,descarte por buffer lleno,subida,10,0,0
+0.3523247522656032,2,solicitud,broker,10,0,0
+0.3523247522656032,2,inicio de servicio,broker,10,0,0
+0.3533247522656032,2,fin de servicio,broker,10,0,0
+0.3533247522656032,2,solicitud,bajada,10,0,1
+0.3571340202031427,1,fin de servicio,bajada,10,0,1
+0.3571340202031427,2,inicio de servicio,bajada,10,0,0
+0.36000000000000004,18,generado,,10,0,0
+0.36000000000000004,18,descarte por buffer lleno,subida,10,0,0
+0.38000000000000006,19,generado,,10,0,0
+0.38000000000000006,19,descarte por buffer lleno,subida,10,0,0
+0.4000000000000001,20,generado,,10,0,0
+0.4000000000000001,20,descarte por buffer lleno,subida,10,0,0
+0.4015375440988039,1,recibido en receptor provisional,,10,0,0
+0.4194848,3,fin de servicio,subida,10,0,0
+0.4194848,4,inicio de servicio,subida,9,0,0
+0.4200000000000001,21,generado,,9,0,0
+0.4200000000000001,21,solicitud,subida,10,0,0
+0.4400000000000001,22,generado,,10,0,0
+0.4400000000000001,22,descarte por buffer lleno,subida,10,0,0
+0.46000000000000013,23,generado,,10,0,0
+0.46000000000000013,23,descarte por buffer lleno,subida,10,0,0
+0.461825393641447,3,solicitud,broker,10,0,0
+0.461825393641447,3,inicio de servicio,broker,10,0,0
+0.4620052202031427,2,fin de servicio,bajada,10,0,0
+0.462825393641447,3,fin de servicio,broker,10,0,0
+0.462825393641447,3,solicitud,bajada,10,0,0
+0.462825393641447,3,inicio de servicio,bajada,10,0,0
+0.48000000000000015,24,generado,,10,0,0
+0.48000000000000015,24,descarte por buffer lleno,subida,10,0,0
+0.4995629753374731,2,recibido en receptor provisional,,10,0,0
+0.5000000000000001,25,generado,,10,0,0
+0.5000000000000001,25,descarte por buffer lleno,subida,10,0,0
+0.5200000000000001,26,generado,,10,0,0
+0.5200000000000001,26,descarte por buffer lleno,subida,10,0,0
+0.524356,4,fin de servicio,subida,10,0,0
+0.524356,5,inicio de servicio,subida,9,0,0
+0.5400000000000001,27,generado,,9,0,0
+0.5400000000000001,27,solicitud,subida,10,0,0
+0.5600000000000002,28,generado,,10,0,0
+0.5600000000000002,28,descarte por buffer lleno,subida,10,0,0
+0.5623858797388837,4,solicitud,broker,10,0,0
+0.5623858797388837,4,inicio de servicio,broker,10,0,0
+0.5633858797388837,4,fin de servicio,broker,10,0,0
+0.5633858797388837,4,solicitud,bajada,10,0,1
+0.567696593641447,3,fin de servicio,bajada,10,0,1
+0.567696593641447,4,inicio de servicio,bajada,10,0,0
+0.5800000000000002,29,generado,,10,0,0
+0.5800000000000002,29,descarte por buffer lleno,subida,10,0,0
+0.6000000000000002,30,generado,,10,0,0
+0.6000000000000002,30,descarte por buffer lleno,subida,10,0,0
+0.6092810938238478,3,recibido en receptor provisional,,10,0,0
+0.6200000000000002,31,generado,,10,0,0
+0.6200000000000002,31,descarte por buffer lleno,subida,10,0,0
+0.6292272000000001,5,fin de servicio,subida,10,0,0
+0.6292272000000001,6,inicio de servicio,subida,9,0,0
+0.6400000000000002,32,generado,,9,0,0
+0.6400000000000002,32,solicitud,subida,10,0,0
+0.6600000000000003,33,generado,,10,0,0
+0.6600000000000003,33,descarte por buffer lleno,subida,10,0,0
+0.6681939364503302,5,solicitud,broker,10,0,0
+0.6681939364503302,5,inicio de servicio,broker,10,0,0
+0.6691939364503302,5,fin de servicio,broker,10,0,0
+0.6691939364503302,5,solicitud,bajada,10,0,1
+0.6725677936414469,4,fin de servicio,bajada,10,0,1
+0.6725677936414469,5,inicio de servicio,bajada,10,0,0
+0.6800000000000003,34,generado,,10,0,0
+0.6800000000000003,34,descarte por buffer lleno,subida,10,0,0
+0.7000000000000003,35,generado,,10,0,0
+0.7000000000000003,35,descarte por buffer lleno,subida,10,0,0
+0.7144101249222164,4,recibido en receptor provisional,,10,0,0
+0.7200000000000003,36,generado,,10,0,0
+0.7200000000000003,36,descarte por buffer lleno,subida,10,0,0
+0.7340984000000002,6,fin de servicio,subida,10,0,0
+0.7340984000000002,7,inicio de servicio,subida,9,0,0
+0.7400000000000003,37,generado,,9,0,0
+0.7400000000000003,37,solicitud,subida,10,0,0
+0.7600000000000003,38,generado,,10,0,0
+0.7600000000000003,38,descarte por buffer lleno,subida,10,0,0
+0.7702823956986545,6,solicitud,broker,10,0,0
+0.7702823956986545,6,inicio de servicio,broker,10,0,0
+0.7712823956986545,6,fin de servicio,broker,10,0,0
+0.7712823956986545,6,solicitud,bajada,10,0,1
+0.777438993641447,5,fin de servicio,bajada,10,0,1
+0.777438993641447,6,inicio de servicio,bajada,10,0,0
+0.7800000000000004,39,generado,,10,0,0
+0.7800000000000004,39,descarte por buffer lleno,subida,10,0,0
+0.8000000000000004,40,generado,,10,0,0
+0.8000000000000004,40,descarte por buffer lleno,subida,10,0,0
+0.8200000000000004,41,generado,,10,0,0
+0.8200000000000004,41,descarte por buffer lleno,subida,10,0,0
+0.820214159520348,5,recibido en receptor provisional,,10,0,0
+0.8389696000000002,7,fin de servicio,subida,10,0,0
+0.8389696000000002,8,inicio de servicio,subida,9,0,0
+0.8400000000000004,42,generado,,9,0,0
+0.8400000000000004,42,solicitud,subida,10,0,0
+0.8600000000000004,43,generado,,10,0,0
+0.8600000000000004,43,descarte por buffer lleno,subida,10,0,0
+0.8800000000000004,44,generado,,10,0,0
+0.8800000000000004,44,descarte por buffer lleno,subida,10,0,0
+0.882310193641447,6,fin de servicio,bajada,10,0,0
+0.8829842308627472,7,solicitud,broker,10,0,0
+0.8829842308627472,7,inicio de servicio,broker,10,0,0
+0.8839842308627472,7,fin de servicio,broker,10,0,0
+0.8839842308627472,7,solicitud,bajada,10,0,0
+0.8839842308627472,7,inicio de servicio,bajada,10,0,0
+0.9000000000000005,45,generado,,10,0,0
+0.9000000000000005,45,descarte por buffer lleno,subida,10,0,0
+0.9195428548045695,6,recibido en receptor provisional,,10,0,0
+0.9200000000000005,46,generado,,10,0,0
+0.9200000000000005,46,descarte por buffer lleno,subida,10,0,0
+0.9400000000000005,47,generado,,10,0,0
+0.9400000000000005,47,descarte por buffer lleno,subida,10,0,0
+0.9438408000000003,8,fin de servicio,subida,10,0,0
+0.9438408000000003,9,inicio de servicio,subida,9,0,0
+0.9600000000000005,48,generado,,9,0,0
+0.9600000000000005,48,solicitud,subida,10,0,0
+0.9800000000000005,49,generado,,10,0,0
+0.9800000000000005,49,descarte por buffer lleno,subida,10,0,0
+0.981444823319533,8,solicitud,broker,10,0,0
+0.981444823319533,8,inicio de servicio,broker,10,0,0
+0.982444823319533,8,fin de servicio,broker,10,0,0
+0.982444823319533,8,solicitud,bajada,10,0,1
+0.9888554308627473,7,fin de servicio,bajada,10,0,1
+0.9888554308627473,8,inicio de servicio,bajada,10,0,0
+1.0000000000000004,50,generado,,10,0,0
+1.0000000000000004,50,descarte por buffer lleno,subida,10,0,0
+1.0200000000000005,51,generado,,10,0,0
+1.0200000000000005,51,descarte por buffer lleno,subida,10,0,0
+1.0274357576589102,7,recibido en receptor provisional,,10,0,0
+1.0400000000000005,52,generado,,10,0,0
+1.0400000000000005,52,descarte por buffer lleno,subida,10,0,0
+1.0487120000000003,9,fin de servicio,subida,10,0,0
+1.0487120000000003,10,inicio de servicio,subida,9,0,0
+1.0600000000000005,53,generado,,9,0,0
+1.0600000000000005,53,solicitud,subida,10,0,0
+1.0800000000000005,54,generado,,10,0,0
+1.0800000000000005,54,descarte por buffer lleno,subida,10,0,0
+1.090028639223417,9,solicitud,broker,10,0,0
+1.090028639223417,9,inicio de servicio,broker,10,0,0
+1.091028639223417,9,fin de servicio,broker,10,0,0
+1.091028639223417,9,solicitud,bajada,10,0,1
+1.0937266308627474,8,fin de servicio,bajada,10,0,1
+1.0937266308627474,9,inicio de servicio,bajada,10,0,0
+1.1000000000000005,55,generado,,10,0,0
+1.1000000000000005,55,descarte por buffer lleno,subida,10,0,0
+1.1200000000000006,56,generado,,10,0,0
+1.1200000000000006,56,descarte por buffer lleno,subida,10,0,0
+1.1367694437043363,8,recibido en receptor provisional,,10,0,0
+1.1400000000000006,57,generado,,10,0,0
+1.1400000000000006,57,descarte por buffer lleno,subida,10,0,0
+1.1535832000000004,10,fin de servicio,subida,10,0,0
+1.1535832000000004,11,inicio de servicio,subida,9,0,0
+1.1600000000000006,58,generado,,9,0,0
+1.1600000000000006,58,solicitud,subida,10,0,0
+1.1800000000000006,59,generado,,10,0,0
+1.1800000000000006,59,descarte por buffer lleno,subida,10,0,0
+1.1940965267242787,10,solicitud,broker,10,0,0
+1.1940965267242787,10,inicio de servicio,broker,10,0,0
+1.1950965267242786,10,fin de servicio,broker,10,0,0
+1.1950965267242786,10,solicitud,bajada,10,0,1
+1.1985978308627474,9,fin de servicio,bajada,10,0,1
+1.1985978308627474,10,inicio de servicio,bajada,10,0,0
+1.2000000000000006,60,generado,,10,0,0
+1.2000000000000006,60,descarte por buffer lleno,subida,10,0,0
+1.2200000000000006,61,generado,,10,0,0
+1.2200000000000006,61,descarte por buffer lleno,subida,10,0,0
+1.2350948664228376,9,recibido en receptor provisional,,10,0,0
+1.2400000000000007,62,generado,,10,0,0
+1.2400000000000007,62,descarte por buffer lleno,subida,10,0,0
+1.2584544000000004,11,fin de servicio,subida,10,0,0
+1.2584544000000004,12,inicio de servicio,subida,9,0,0
+1.2600000000000007,63,generado,,9,0,0
+1.2600000000000007,63,solicitud,subida,10,0,0
+1.2800000000000007,64,generado,,10,0,0
+1.2800000000000007,64,descarte por buffer lleno,subida,10,0,0
+1.2951038824745216,11,solicitud,broker,10,0,0
+1.2951038824745216,11,inicio de servicio,broker,10,0,0
+1.2961038824745215,11,fin de servicio,broker,10,0,0
+1.2961038824745215,11,solicitud,bajada,10,0,1
+1.3000000000000007,65,generado,,10,0,1
+1.3000000000000007,65,descarte por buffer lleno,subida,10,0,1
+1.3034690308627475,10,fin de servicio,bajada,10,0,1
+1.3034690308627475,11,inicio de servicio,bajada,10,0,0
+1.3200000000000007,66,generado,,10,0,0
+1.3200000000000007,66,descarte por buffer lleno,subida,10,0,0
+1.3400000000000007,67,generado,,10,0,0
+1.3400000000000007,67,descarte por buffer lleno,subida,10,0,0
+1.3451090213918175,10,recibido en receptor provisional,,10,0,0
+1.3600000000000008,68,generado,,10,0,0
+1.3600000000000008,68,descarte por buffer lleno,subida,10,0,0
+1.3633256000000005,12,fin de servicio,subida,10,0,0
+1.3633256000000005,16,inicio de servicio,subida,9,0,0
+1.3800000000000008,69,generado,,9,0,0
+1.3800000000000008,69,solicitud,subida,10,0,0
+1.399555863456317,12,solicitud,broker,10,0,0
+1.399555863456317,12,inicio de servicio,broker,10,0,0
+1.4000000000000008,70,generado,,10,0,0
+1.4000000000000008,70,descarte por buffer lleno,subida,10,0,0
+1.4005558634563169,12,fin de servicio,broker,10,0,0
+1.4005558634563169,12,solicitud,bajada,10,0,1
+1.4083402308627475,11,fin de servicio,bajada,10,0,1
+1.4083402308627475,12,inicio de servicio,bajada,10,0,0
+1.4200000000000008,71,generado,,10,0,0
+1.4200000000000008,71,descarte por buffer lleno,subida,10,0,0
+1.4400000000000008,72,generado,,10,0,0
+1.4400000000000008,72,descarte por buffer lleno,subida,10,0,0
+1.4498572137809755,11,recibido en receptor provisional,,10,0,0
+1.4600000000000009,73,generado,,10,0,0
+1.4600000000000009,73,descarte por buffer lleno,subida,10,0,0
+1.4681968000000005,16,fin de servicio,subida,10,0,0
+1.4681968000000005,21,inicio de servicio,subida,9,0,0
+1.4800000000000009,74,generado,,9,0,0
+1.4800000000000009,74,solicitud,subida,10,0,0
+1.5000000000000009,75,generado,,10,0,0
+1.5000000000000009,75,descarte por buffer lleno,subida,10,0,0
+1.509272112129736,16,solicitud,broker,10,0,0
+1.509272112129736,16,inicio de servicio,broker,10,0,0
+1.510272112129736,16,fin de servicio,broker,10,0,0
+1.510272112129736,16,solicitud,bajada,10,0,1
+1.5132114308627476,12,fin de servicio,bajada,10,0,1
+1.5132114308627476,16,inicio de servicio,bajada,10,0,0
+1.520000000000001,76,generado,,10,0,0
+1.520000000000001,76,descarte por buffer lleno,subida,10,0,0
+1.540000000000001,77,generado,,10,0,0
+1.540000000000001,77,descarte por buffer lleno,subida,10,0,0
+1.551582093121893,12,recibido en receptor provisional,,10,0,0
+1.560000000000001,78,generado,,10,0,0
+1.560000000000001,78,descarte por buffer lleno,subida,10,0,0
+1.5730680000000006,21,fin de servicio,subida,10,0,0
+1.5730680000000006,27,inicio de servicio,subida,9,0,0
+1.580000000000001,79,generado,,9,0,0
+1.580000000000001,79,solicitud,subida,10,0,0
+1.600000000000001,80,generado,,10,0,0
+1.600000000000001,80,descarte por buffer lleno,subida,10,0,0
+1.610006387101206,21,solicitud,broker,10,0,0
+1.610006387101206,21,inicio de servicio,broker,10,0,0
+1.611006387101206,21,fin de servicio,broker,10,0,0
+1.611006387101206,21,solicitud,bajada,10,0,1
+1.6180826308627476,16,fin de servicio,bajada,10,0,1
+1.6180826308627476,21,inicio de servicio,bajada,10,0,0
+1.620000000000001,81,generado,,10,0,0
+1.620000000000001,81,descarte por buffer lleno,subida,10,0,0
+1.640000000000001,82,generado,,10,0,0
+1.640000000000001,82,descarte por buffer lleno,subida,10,0,0
+1.660000000000001,83,generado,,10,0,0
+1.660000000000001,83,descarte por buffer lleno,subida,10,0,0
+1.6618085846831596,16,recibido en receptor provisional,,10,0,0
+1.6779392000000006,27,fin de servicio,subida,10,0,0
+1.6779392000000006,32,inicio de servicio,subida,9,0,0
+1.680000000000001,84,generado,,9,0,0
+1.680000000000001,84,solicitud,subida,10,0,0
+1.700000000000001,85,generado,,10,0,0
+1.700000000000001,85,descarte por buffer lleno,subida,10,0,0
+1.7181968455910468,27,solicitud,broker,10,0,0
+1.7181968455910468,27,inicio de servicio,broker,10,0,0
+1.7191968455910467,27,fin de servicio,broker,10,0,0
+1.7191968455910467,27,solicitud,bajada,10,0,1
+1.720000000000001,86,generado,,10,0,1
+1.720000000000001,86,descarte por buffer lleno,subida,10,0,1
+1.7229538308627477,21,fin de servicio,bajada,10,0,1
+1.7229538308627477,27,inicio de servicio,bajada,10,0,0
+1.740000000000001,87,generado,,10,0,0
+1.740000000000001,87,descarte por buffer lleno,subida,10,0,0
+1.7600000000000011,88,generado,,10,0,0
+1.7600000000000011,88,descarte por buffer lleno,subida,10,0,0
+1.7624798399473387,21,recibido en receptor provisional,,10,0,0
+1.7800000000000011,89,generado,,10,0,0
+1.7800000000000011,89,descarte por buffer lleno,subida,10,0,0
+1.7828104000000007,32,fin de servicio,subida,10,0,0
+1.7828104000000007,37,inicio de servicio,subida,9,0,0
+1.8000000000000012,90,generado,,9,0,0
+1.8000000000000012,90,solicitud,subida,10,0,0
+1.8200000000000012,91,generado,,10,0,0
+1.8200000000000012,91,descarte por buffer lleno,subida,10,0,0
+1.8225555816047794,32,solicitud,broker,10,0,0
+1.8225555816047794,32,inicio de servicio,broker,10,0,0
+1.8235555816047793,32,fin de servicio,broker,10,0,0
+1.8235555816047793,32,solicitud,bajada,10,0,1
+1.8278250308627477,27,fin de servicio,bajada,10,0,1
+1.8278250308627477,32,inicio de servicio,bajada,10,0,0
+1.8400000000000012,92,generado,,10,0,0
+1.8400000000000012,92,descarte por buffer lleno,subida,10,0,0
+1.8600000000000012,93,generado,,10,0,0
+1.8600000000000012,93,descarte por buffer lleno,subida,10,0,0
+1.8637548678232712,27,recibido en receptor provisional,,10,0,0
+1.8800000000000012,94,generado,,10,0,0
+1.8800000000000012,94,descarte por buffer lleno,subida,10,0,0
+1.8876816000000007,37,fin de servicio,subida,10,0,0
+1.8876816000000007,42,inicio de servicio,subida,9,0,0
+1.9000000000000012,95,generado,,9,0,0
+1.9000000000000012,95,solicitud,subida,10,0,0
+1.9200000000000013,96,generado,,10,0,0
+1.9200000000000013,96,descarte por buffer lleno,subida,10,0,0
+1.9321209230965175,37,solicitud,broker,10,0,0
+1.9321209230965175,37,inicio de servicio,broker,10,0,0
+1.9326962308627478,32,fin de servicio,bajada,10,0,0
+1.9331209230965174,37,fin de servicio,broker,10,0,0
+1.9331209230965174,37,solicitud,bajada,10,0,0
+1.9331209230965174,37,inicio de servicio,bajada,10,0,0
+1.9400000000000013,97,generado,,10,0,0
+1.9400000000000013,97,descarte por buffer lleno,subida,10,0,0
+1.9600000000000013,98,generado,,10,0,0
+1.9600000000000013,98,descarte por buffer lleno,subida,10,0,0
+1.9700588641692238,32,recibido en receptor provisional,,10,0,0
+1.9800000000000013,99,generado,,10,0,0
+1.9800000000000013,99,descarte por buffer lleno,subida,10,0,0
+1.9925528000000008,42,fin de servicio,subida,10,0,0
+1.9925528000000008,48,inicio de servicio,subida,9,0,0
+2.030113536544085,42,solicitud,broker,9,0,0
+2.030113536544085,42,inicio de servicio,broker,9,0,0
+2.031113536544085,42,fin de servicio,broker,9,0,0
+2.031113536544085,42,solicitud,bajada,9,0,1
+2.0379921230965174,37,fin de servicio,bajada,9,0,1
+2.0379921230965174,42,inicio de servicio,bajada,9,0,0
+2.0772232266077313,37,recibido en receptor provisional,,9,0,0
+2.0974240000000006,48,fin de servicio,subida,9,0,0
+2.0974240000000006,53,inicio de servicio,subida,8,0,0
+2.134414390941634,48,solicitud,broker,8,0,0
+2.134414390941634,48,inicio de servicio,broker,8,0,0
+2.135414390941634,48,fin de servicio,broker,8,0,0
+2.135414390941634,48,solicitud,bajada,8,0,1
+2.1428633230965173,42,fin de servicio,bajada,8,0,1
+2.1428633230965173,48,inicio de servicio,bajada,8,0,0
+2.1817422674709763,42,recibido en receptor provisional,,8,0,0
+2.2022952000000005,53,fin de servicio,subida,8,0,0
+2.2022952000000005,58,inicio de servicio,subida,7,0,0
+2.242906333793119,53,solicitud,broker,7,0,0
+2.242906333793119,53,inicio de servicio,broker,7,0,0
+2.243906333793119,53,fin de servicio,broker,7,0,0
+2.243906333793119,53,solicitud,bajada,7,0,1
+2.247734523096517,48,fin de servicio,bajada,7,0,1
+2.247734523096517,53,inicio de servicio,bajada,7,0,0
+2.285034876314408,48,recibido en receptor provisional,,7,0,0
+2.3071664000000003,58,fin de servicio,subida,7,0,0
+2.3071664000000003,63,inicio de servicio,subida,6,0,0
+2.3499008057641846,58,solicitud,broker,6,0,0
+2.3499008057641846,58,inicio de servicio,broker,6,0,0
+2.3509008057641845,58,fin de servicio,broker,6,0,0
+2.3509008057641845,58,solicitud,bajada,6,0,1
+2.352605723096517,53,fin de servicio,bajada,6,0,1
+2.352605723096517,58,inicio de servicio,bajada,6,0,0
+2.393564103850903,53,recibido en receptor provisional,,6,0,0
+2.4120376,63,fin de servicio,subida,6,0,0
+2.4120376,69,inicio de servicio,subida,5,0,0
+2.449044028618324,63,solicitud,broker,5,0,0
+2.449044028618324,63,inicio de servicio,broker,5,0,0
+2.450044028618324,63,fin de servicio,broker,5,0,0
+2.450044028618324,63,solicitud,bajada,5,0,1
+2.4574769230965168,58,fin de servicio,bajada,5,0,1
+2.4574769230965168,63,inicio de servicio,bajada,5,0,0
+2.495621408561802,58,recibido en receptor provisional,,5,0,0
+2.5169088,69,fin de servicio,subida,5,0,0
+2.5169088,74,inicio de servicio,subida,4,0,0
+2.5541319380708605,69,solicitud,broker,4,0,0
+2.5541319380708605,69,inicio de servicio,broker,4,0,0
+2.5551319380708604,69,fin de servicio,broker,4,0,0
+2.5551319380708604,69,solicitud,bajada,4,0,1
+2.5623481230965166,63,fin de servicio,bajada,4,0,1
+2.5623481230965166,69,inicio de servicio,bajada,4,0,0
+2.604270550358025,63,recibido en receptor provisional,,4,0,0
+2.6217799999999998,74,fin de servicio,subida,4,0,0
+2.6217799999999998,79,inicio de servicio,subida,3,0,0
+2.6633478984540178,74,solicitud,broker,3,0,0
+2.6633478984540178,74,inicio de servicio,broker,3,0,0
+2.6643478984540176,74,fin de servicio,broker,3,0,0
+2.6643478984540176,74,solicitud,bajada,3,0,1
+2.6672193230965164,69,fin de servicio,bajada,3,0,1
+2.6672193230965164,74,inicio de servicio,bajada,3,0,0
+2.7036841783061454,69,recibido en receptor provisional,,3,0,0
+2.7266511999999996,79,fin de servicio,subida,3,0,0
+2.7266511999999996,84,inicio de servicio,subida,2,0,0
+2.770993219233699,79,solicitud,broker,2,0,0
+2.770993219233699,79,inicio de servicio,broker,2,0,0
+2.771993219233699,79,fin de servicio,broker,2,0,0
+2.771993219233699,79,solicitud,bajada,2,0,1
+2.7720905230965163,74,fin de servicio,bajada,2,0,1
+2.7720905230965163,79,inicio de servicio,bajada,2,0,0
+2.812663448135391,74,recibido en receptor provisional,,2,0,0
+2.8315223999999994,84,fin de servicio,subida,2,0,0
+2.8315223999999994,90,inicio de servicio,subida,1,0,0
+2.8744601635327536,84,solicitud,broker,1,0,0
+2.8744601635327536,84,inicio de servicio,broker,1,0,0
+2.8754601635327535,84,fin de servicio,broker,1,0,0
+2.8754601635327535,84,solicitud,bajada,1,0,1
+2.876961723096516,79,fin de servicio,bajada,1,0,1
+2.876961723096516,84,inicio de servicio,bajada,1,0,0
+2.9173861381799817,79,recibido en receptor provisional,,1,0,0
+2.9363935999999993,90,fin de servicio,subida,1,0,0
+2.9363935999999993,95,inicio de servicio,subida,0,0,0
+2.973875327546593,90,solicitud,broker,0,0,0
+2.973875327546593,90,inicio de servicio,broker,0,0,0
+2.974875327546593,90,fin de servicio,broker,0,0,0
+2.974875327546593,90,solicitud,bajada,0,0,1
+2.981832923096516,84,fin de servicio,bajada,0,0,1
+2.981832923096516,90,inicio de servicio,bajada,0,0,0
+3.019884750947816,84,recibido en receptor provisional,,0,0,0
+3.041264799999999,95,fin de servicio,subida,0,0,0
+3.0802423161730133,95,solicitud,broker,0,0,0
+3.0802423161730133,95,inicio de servicio,broker,0,0,0
+3.081242316173013,95,fin de servicio,broker,0,0,0
+3.081242316173013,95,solicitud,bajada,0,0,1
+3.0867041230965158,90,fin de servicio,bajada,0,0,1
+3.0867041230965158,95,inicio de servicio,bajada,0,0,0
+3.128515645982178,90,recibido en receptor provisional,,0,0,0
+3.1915753230965156,95,fin de servicio,bajada,0,0,0
+3.2310294649736133,95,recibido en receptor provisional,,0,0,0

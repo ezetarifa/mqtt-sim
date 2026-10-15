@@ -1,0 +1,32 @@
+{
+  "configuracion": {
+    "payload_bytes": 2,
+    "frecuencia": 1,
+    "mensajes": 100,
+    "subida_bps": 10000000,
+    "bajada_bps": 10000000,
+    "propagacion_por_trayecto_s": 0.04,
+    "jitter_por_trayecto_s": 0.005,
+    "broker_s": 0.001,
+    "cola_maxima": 10,
+    "plazo_s": 0.25,
+    "semilla": 14,
+    "tema": "hogar/orden"
+  },
+  "resumen": {
+    "generados": 100,
+    "recibidos": 100,
+    "descartados": 0,
+    "pendientes": 0,
+    "latencia_media_ms": 80.90251969549772,
+    "jitter_desviacion_ms": 4.214760674985057,
+    "latencia_maxima_ms": 90.19860516386302,
+    "throughput_util_KiB_s": 0.0019711060892440737,
+    "tasa_descarte_pct": 0.0,
+    "tardios_entre_recibidos_pct": 0.0,
+    "duracion_total_s": 99.08776654173042,
+    "cola_maxima_subida": 0,
+    "cola_maxima_broker": 0,
+    "cola_maxima_bajada": 0
+  }
+}

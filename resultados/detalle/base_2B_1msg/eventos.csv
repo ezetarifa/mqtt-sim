@@ -1,0 +1,1101 @@
+tiempo_s,id,evento,etapa,cola_subida,cola_broker,cola_bajada
+0,0,generado,,0,0,0
+0,0,solicitud,subida,0,0,0
+0,0,inicio de servicio,subida,0,0,0
+1.36e-05,0,fin de servicio,subida,0,0,0
+0.03608188537701656,0,solicitud,broker,0,0,0
+0.03608188537701656,0,inicio de servicio,broker,0,0,0
+0.03708188537701656,0,fin de servicio,broker,0,0,0
+0.03708188537701656,0,solicitud,bajada,0,0,0
+0.03708188537701656,0,inicio de servicio,bajada,0,0,0
+0.03709548537701656,0,fin de servicio,bajada,0,0,0
+0.07912134061688511,0,recibido en receptor provisional,,0,0,0
+1.0,1,generado,,0,0,0
+1.0,1,solicitud,subida,0,0,0
+1.0,1,inicio de servicio,subida,0,0,0
+1.0000136,1,fin de servicio,subida,0,0,0
+1.0415340202031427,1,solicitud,broker,0,0,0
+1.0415340202031427,1,inicio de servicio,broker,0,0,0
+1.0425340202031426,1,fin de servicio,broker,0,0,0
+1.0425340202031426,1,solicitud,bajada,0,0,0
+1.0425340202031426,1,inicio de servicio,bajada,0,0,0
+1.0425476202031425,1,fin de servicio,bajada,0,0,0
+1.0869511440988038,1,recibido en receptor provisional,,0,0,0
+2.0,2,generado,,0,0,0
+2.0,2,solicitud,subida,0,0,0
+2.0,2,inicio de servicio,subida,0,0,0
+2.0000136,2,fin de servicio,subida,0,0,0
+2.037724752265603,2,solicitud,broker,0,0,0
+2.037724752265603,2,inicio de servicio,broker,0,0,0
+2.038724752265603,2,fin de servicio,broker,0,0,0
+2.038724752265603,2,solicitud,bajada,0,0,0
+2.038724752265603,2,inicio de servicio,bajada,0,0,0
+2.038738352265603,2,fin de servicio,bajada,0,0,0
+2.076296107399933,2,recibido en receptor provisional,,0,0,0
+3.0,3,generado,,0,0,0
+3.0,3,solicitud,subida,0,0,0
+3.0,3,inicio de servicio,subida,0,0,0
+3.0000136,3,fin de servicio,subida,0,0,0
+3.042354193641447,3,solicitud,broker,0,0,0
+3.042354193641447,3,inicio de servicio,broker,0,0,0
+3.0433541936414468,3,fin de servicio,broker,0,0,0
+3.0433541936414468,3,solicitud,bajada,0,0,0
+3.0433541936414468,3,inicio de servicio,bajada,0,0,0
+3.0433677936414467,3,fin de servicio,bajada,0,0,0
+3.0849522938238474,3,recibido en receptor provisional,,0,0,0
+4.0,4,generado,,0,0,0
+4.0,4,solicitud,subida,0,0,0
+4.0,4,inicio de servicio,subida,0,0,0
+4.0000136,4,fin de servicio,subida,0,0,0
+4.038043479738883,4,solicitud,broker,0,0,0
+4.038043479738883,4,inicio de servicio,broker,0,0,0
+4.039043479738884,4,fin de servicio,broker,0,0,0
+4.039043479738884,4,solicitud,bajada,0,0,0
+4.039043479738884,4,inicio de servicio,bajada,0,0,0
+4.039057079738884,4,fin de servicio,bajada,0,0,0
+4.0808994110196535,4,recibido en receptor provisional,,0,0,0
+5.0,5,generado,,0,0,0
+5.0,5,solicitud,subida,0,0,0
+5.0,5,inicio de servicio,subida,0,0,0
+5.0000136,5,fin de servicio,subida,0,0,0
+5.03898033645033,5,solicitud,broker,0,0,0
+5.03898033645033,5,inicio de servicio,broker,0,0,0
+5.039980336450331,5,fin de servicio,broker,0,0,0
+5.039980336450331,5,solicitud,bajada,0,0,0
+5.039980336450331,5,inicio de servicio,bajada,0,0,0
+5.039993936450331,5,fin de servicio,bajada,0,0,0
+5.082769102329232,5,recibido en receptor provisional,,0,0,0
+6.0,6,generado,,0,0,0
+6.0,6,solicitud,subida,0,0,0
+6.0,6,inicio de servicio,subida,0,0,0
+6.0000136,6,fin de servicio,subida,0,0,0
+6.036197595698654,6,solicitud,broker,0,0,0
+6.036197595698654,6,inicio de servicio,broker,0,0,0
+6.037197595698655,6,fin de servicio,broker,0,0,0
+6.037197595698655,6,solicitud,bajada,0,0,0
+6.037197595698655,6,inicio de servicio,bajada,0,0,0
+6.037211195698655,6,fin de servicio,bajada,0,0,0
+6.074443856861778,6,recibido en receptor provisional,,0,0,0
+7.0,7,generado,,0,0,0
+7.0,7,solicitud,subida,0,0,0
+7.0,7,inicio de servicio,subida,0,0,0
+7.0000136,7,fin de servicio,subida,0,0,0
+7.044028230862747,7,solicitud,broker,0,0,0
+7.044028230862747,7,inicio de servicio,broker,0,0,0
+7.045028230862747,7,fin de servicio,broker,0,0,0
+7.045028230862747,7,solicitud,bajada,0,0,0
+7.045028230862747,7,inicio de servicio,bajada,0,0,0
+7.045041830862747,7,fin de servicio,bajada,0,0,0
+7.08362215765891,7,recibido en receptor provisional,,0,0,0
+8.0,8,generado,,0,0,0
+8.0,8,solicitud,subida,0,0,0
+8.0,8,inicio de servicio,subida,0,0,0
+8.0000136,8,fin de servicio,subida,0,0,0
+8.037617623319534,8,solicitud,broker,0,0,0
+8.037617623319534,8,inicio de servicio,broker,0,0,0
+8.038617623319533,8,fin de servicio,broker,0,0,0
+8.038617623319533,8,solicitud,bajada,0,0,0
+8.038617623319533,8,inicio de servicio,bajada,0,0,0
+8.038631223319534,8,fin de servicio,bajada,0,0,0
+8.081674036161123,8,recibido en receptor provisional,,0,0,0
+9.0,9,generado,,0,0,0
+9.0,9,solicitud,subida,0,0,0
+9.0,9,inicio de servicio,subida,0,0,0
+9.0000136,9,fin de servicio,subida,0,0,0
+9.041330239223418,9,solicitud,broker,0,0,0
+9.041330239223418,9,inicio de servicio,broker,0,0,0
+9.042330239223418,9,fin de servicio,broker,0,0,0
+9.042330239223418,9,solicitud,bajada,0,0,0
+9.042330239223418,9,inicio de servicio,bajada,0,0,0
+9.042343839223419,9,fin de servicio,bajada,0,0,0
+9.07884087478351,9,recibido en receptor provisional,,0,0,0
+10.0,10,generado,,0,0,0
+10.0,10,solicitud,subida,0,0,0
+10.0,10,inicio de servicio,subida,0,0,0
+10.0000136,10,fin de servicio,subida,0,0,0
+10.04052692672428,10,solicitud,broker,0,0,0
+10.04052692672428,10,inicio de servicio,broker,0,0,0
+10.041526926724279,10,fin de servicio,broker,0,0,0
+10.041526926724279,10,solicitud,bajada,0,0,0
+10.041526926724279,10,inicio de servicio,bajada,0,0,0
+10.04154052672428,10,fin de servicio,bajada,0,0,0
+10.08318051725335,10,recibido en receptor provisional,,0,0,0
+11.0,11,generado,,0,0,0
+11.0,11,solicitud,subida,0,0,0
+11.0,11,inicio de servicio,subida,0,0,0
+11.0000136,11,fin de servicio,subida,0,0,0
+11.036663082474522,11,solicitud,broker,0,0,0
+11.036663082474522,11,inicio de servicio,broker,0,0,0
+11.037663082474522,11,fin de servicio,broker,0,0,0
+11.037663082474522,11,solicitud,bajada,0,0,0
+11.037663082474522,11,inicio de servicio,bajada,0,0,0
+11.037676682474522,11,fin de servicio,bajada,0,0,0
+11.07919366539275,11,recibido en receptor provisional,,0,0,0
+12.0,12,generado,,0,0,0
+12.0,12,solicitud,subida,0,0,0
+12.0,12,inicio de servicio,subida,0,0,0
+12.0000136,12,fin de servicio,subida,0,0,0
+12.036243863456317,12,solicitud,broker,0,0,0
+12.036243863456317,12,inicio de servicio,broker,0,0,0
+12.037243863456316,12,fin de servicio,broker,0,0,0
+12.037243863456316,12,solicitud,bajada,0,0,0
+12.037243863456316,12,inicio de servicio,bajada,0,0,0
+12.037257463456317,12,fin de servicio,bajada,0,0,0
+12.075628125715463,12,recibido en receptor provisional,,0,0,0
+13.0,13,generado,,0,0,0
+13.0,13,solicitud,subida,0,0,0
+13.0,13,inicio de servicio,subida,0,0,0
+13.0000136,13,fin de servicio,subida,0,0,0
+13.03584568004192,13,solicitud,broker,0,0,0
+13.03584568004192,13,inicio de servicio,broker,0,0,0
+13.03684568004192,13,fin de servicio,broker,0,0,0
+13.03684568004192,13,solicitud,bajada,0,0,0
+13.03684568004192,13,inicio de servicio,bajada,0,0,0
+13.03685928004192,13,fin de servicio,bajada,0,0,0
+13.073903497021519,13,recibido en receptor provisional,,0,0,0
+14.0,14,generado,,0,0,0
+14.0,14,solicitud,subida,0,0,0
+14.0,14,inicio de servicio,subida,0,0,0
+14.0000136,14,fin de servicio,subida,0,0,0
+14.04479359533578,14,solicitud,broker,0,0,0
+14.04479359533578,14,inicio de servicio,broker,0,0,0
+14.045793595335779,14,fin de servicio,broker,0,0,0
+14.045793595335779,14,solicitud,bajada,0,0,0
+14.045793595335779,14,inicio de servicio,bajada,0,0,0
+14.04580719533578,14,fin de servicio,bajada,0,0,0
+14.084843953325253,14,recibido en receptor provisional,,0,0,0
+15.0,15,generado,,0,0,0
+15.0,15,solicitud,subida,0,0,0
+15.0,15,inicio de servicio,subida,0,0,0
+15.0000136,15,fin de servicio,subida,0,0,0
+15.044917926344603,15,solicitud,broker,0,0,0
+15.044917926344603,15,inicio de servicio,broker,0,0,0
+15.045917926344602,15,fin de servicio,broker,0,0,0
+15.045917926344602,15,solicitud,bajada,0,0,0
+15.045917926344602,15,inicio de servicio,bajada,0,0,0
+15.045931526344603,15,fin de servicio,bajada,0,0,0
+15.085318006862021,15,recibido en receptor provisional,,0,0,0
+16.0,16,generado,,0,0,0
+16.0,16,solicitud,subida,0,0,0
+16.0,16,inicio de servicio,subida,0,0,0
+16.0000136,16,fin de servicio,subida,0,0,0
+16.041088912129734,16,solicitud,broker,0,0,0
+16.041088912129734,16,inicio de servicio,broker,0,0,0
+16.042088912129735,16,fin de servicio,broker,0,0,0
+16.042088912129735,16,solicitud,bajada,0,0,0
+16.042088912129735,16,inicio de servicio,bajada,0,0,0
+16.042102512129734,16,fin de servicio,bajada,0,0,0
+16.085828465950147,16,recibido en receptor provisional,,0,0,0
+17.0,17,generado,,0,0,0
+17.0,17,solicitud,subida,0,0,0
+17.0,17,inicio de servicio,subida,0,0,0
+17.0000136,17,fin de servicio,subida,0,0,0
+17.041882435008603,17,solicitud,broker,0,0,0
+17.041882435008603,17,inicio de servicio,broker,0,0,0
+17.042882435008604,17,fin de servicio,broker,0,0,0
+17.042882435008604,17,solicitud,bajada,0,0,0
+17.042882435008604,17,inicio de servicio,bajada,0,0,0
+17.042896035008603,17,fin de servicio,bajada,0,0,0
+17.07901134956517,17,recibido en receptor provisional,,0,0,0
+18.0,18,generado,,0,0,0
+18.0,18,solicitud,subida,0,0,0
+18.0,18,inicio de servicio,subida,0,0,0
+18.0000136,18,fin de servicio,subida,0,0,0
+18.04090444168057,18,solicitud,broker,0,0,0
+18.04090444168057,18,inicio de servicio,broker,0,0,0
+18.041904441680572,18,fin de servicio,broker,0,0,0
+18.041904441680572,18,solicitud,bajada,0,0,0
+18.041904441680572,18,inicio de servicio,bajada,0,0,0
+18.04191804168057,18,fin de servicio,bajada,0,0,0
+18.08325533539219,18,recibido en receptor provisional,,0,0,0
+19.0,19,generado,,0,0,0
+19.0,19,solicitud,subida,0,0,0
+19.0,19,inicio de servicio,subida,0,0,0
+19.0000136,19,fin de servicio,subida,0,0,0
+19.036825580371538,19,solicitud,broker,0,0,0
+19.036825580371538,19,inicio de servicio,broker,0,0,0
+19.03782558037154,19,fin de servicio,broker,0,0,0
+19.03782558037154,19,solicitud,bajada,0,0,0
+19.03782558037154,19,inicio de servicio,bajada,0,0,0
+19.037839180371538,19,fin de servicio,bajada,0,0,0
+19.07378590536356,19,recibido en receptor provisional,,0,0,0
+20.0,20,generado,,0,0,0
+20.0,20,solicitud,subida,0,0,0
+20.0,20,inicio de servicio,subida,0,0,0
+20.0000136,20,fin de servicio,subida,0,0,0
+20.04376153920566,20,solicitud,broker,0,0,0
+20.04376153920566,20,inicio de servicio,broker,0,0,0
+20.044761539205663,20,fin de servicio,broker,0,0,0
+20.044761539205663,20,solicitud,bajada,0,0,0
+20.044761539205663,20,inicio de servicio,bajada,0,0,0
+20.04477513920566,20,fin de servicio,bajada,0,0,0
+20.084912953762636,20,recibido en receptor provisional,,0,0,0
+21.0,21,generado,,0,0,0
+21.0,21,solicitud,subida,0,0,0
+21.0,21,inicio de servicio,subida,0,0,0
+21.0000136,21,fin de servicio,subida,0,0,0
+21.036951987101205,21,solicitud,broker,0,0,0
+21.036951987101205,21,inicio de servicio,broker,0,0,0
+21.037951987101206,21,fin de servicio,broker,0,0,0
+21.037951987101206,21,solicitud,bajada,0,0,0
+21.037951987101206,21,inicio de servicio,bajada,0,0,0
+21.037965587101205,21,fin de servicio,bajada,0,0,0
+21.077491596185794,21,recibido en receptor provisional,,0,0,0
+22.0,22,generado,,0,0,0
+22.0,22,solicitud,subida,0,0,0
+22.0,22,inicio de servicio,subida,0,0,0
+22.0000136,22,fin de servicio,subida,0,0,0
+22.037195479020088,22,solicitud,broker,0,0,0
+22.037195479020088,22,inicio de servicio,broker,0,0,0
+22.03819547902009,22,fin de servicio,broker,0,0,0
+22.03819547902009,22,solicitud,bajada,0,0,0
+22.03819547902009,22,inicio de servicio,bajada,0,0,0
+22.03820907902009,22,fin de servicio,bajada,0,0,0
+22.081191498025223,22,recibido en receptor provisional,,0,0,0
+23.0,23,generado,,0,0,0
+23.0,23,solicitud,subida,0,0,0
+23.0,23,inicio de servicio,subida,0,0,0
+23.0000136,23,fin de servicio,subida,0,0,0
+23.04001840124761,23,solicitud,broker,0,0,0
+23.04001840124761,23,inicio de servicio,broker,0,0,0
+23.041018401247612,23,fin de servicio,broker,0,0,0
+23.041018401247612,23,solicitud,bajada,0,0,0
+23.041018401247612,23,inicio de servicio,bajada,0,0,0
+23.04103200124761,23,fin de servicio,bajada,0,0,0
+23.077056281521614,23,recibido en receptor provisional,,0,0,0
+24.0,24,generado,,0,0,0
+24.0,24,solicitud,subida,0,0,0
+24.0,24,inicio de servicio,subida,0,0,0
+24.0000136,24,fin de servicio,subida,0,0,0
+24.04319488012115,24,solicitud,broker,0,0,0
+24.04319488012115,24,inicio de servicio,broker,0,0,0
+24.04419488012115,24,fin de servicio,broker,0,0,0
+24.04419488012115,24,solicitud,bajada,0,0,0
+24.04419488012115,24,inicio de servicio,bajada,0,0,0
+24.04420848012115,24,fin de servicio,bajada,0,0,0
+24.080103832505497,24,recibido en receptor provisional,,0,0,0
+25.0,25,generado,,0,0,0
+25.0,25,solicitud,subida,0,0,0
+25.0,25,inicio de servicio,subida,0,0,0
+25.0000136,25,fin de servicio,subida,0,0,0
+25.03782028758737,25,solicitud,broker,0,0,0
+25.03782028758737,25,inicio de servicio,broker,0,0,0
+25.03882028758737,25,fin de servicio,broker,0,0,0
+25.03882028758737,25,solicitud,bajada,0,0,0
+25.03882028758737,25,inicio de servicio,bajada,0,0,0
+25.03883388758737,25,fin de servicio,bajada,0,0,0
+25.074113861642786,25,recibido en receptor provisional,,0,0,0
+26.0,26,generado,,0,0,0
+26.0,26,solicitud,subida,0,0,0
+26.0,26,inicio de servicio,subida,0,0,0
+26.0000136,26,fin de servicio,subida,0,0,0
+26.04241701241746,26,solicitud,broker,0,0,0
+26.04241701241746,26,inicio de servicio,broker,0,0,0
+26.04341701241746,26,fin de servicio,broker,0,0,0
+26.04341701241746,26,solicitud,bajada,0,0,0
+26.04341701241746,26,inicio de servicio,bajada,0,0,0
+26.04343061241746,26,fin de servicio,bajada,0,0,0
+26.07956935861097,26,recibido en receptor provisional,,0,0,0
+27.0,27,generado,,0,0,0
+27.0,27,solicitud,subida,0,0,0
+27.0,27,inicio de servicio,subida,0,0,0
+27.0000136,27,fin de servicio,subida,0,0,0
+27.040271245591047,27,solicitud,broker,0,0,0
+27.040271245591047,27,inicio de servicio,broker,0,0,0
+27.041271245591048,27,fin de servicio,broker,0,0,0
+27.041271245591048,27,solicitud,bajada,0,0,0
+27.041271245591048,27,inicio de servicio,bajada,0,0,0
+27.041284845591047,27,fin de servicio,bajada,0,0,0
+27.07721468255157,27,recibido en receptor provisional,,0,0,0
+28.0,28,generado,,0,0,0
+28.0,28,solicitud,subida,0,0,0
+28.0,28,inicio de servicio,subida,0,0,0
+28.0000136,28,fin de servicio,subida,0,0,0
+28.039817974275635,28,solicitud,broker,0,0,0
+28.039817974275635,28,inicio de servicio,broker,0,0,0
+28.040817974275637,28,fin de servicio,broker,0,0,0
+28.040817974275637,28,solicitud,bajada,0,0,0
+28.040817974275637,28,inicio de servicio,bajada,0,0,0
+28.040831574275636,28,fin de servicio,bajada,0,0,0
+28.082685295579008,28,recibido en receptor provisional,,0,0,0
+29.0,29,generado,,0,0,0
+29.0,29,solicitud,subida,0,0,0
+29.0,29,inicio de servicio,subida,0,0,0
+29.0000136,29,fin de servicio,subida,0,0,0
+29.040362104736026,29,solicitud,broker,0,0,0
+29.040362104736026,29,inicio de servicio,broker,0,0,0
+29.041362104736027,29,fin de servicio,broker,0,0,0
+29.041362104736027,29,solicitud,bajada,0,0,0
+29.041362104736027,29,inicio de servicio,bajada,0,0,0
+29.041375704736026,29,fin de servicio,bajada,0,0,0
+29.080927373745766,29,recibido en receptor provisional,,0,0,0
+30.0,30,generado,,0,0,0
+30.0,30,solicitud,subida,0,0,0
+30.0,30,inicio de servicio,subida,0,0,0
+30.0000136,30,fin de servicio,subida,0,0,0
+30.03986230936422,30,solicitud,broker,0,0,0
+30.03986230936422,30,inicio de servicio,broker,0,0,0
+30.040862309364222,30,fin de servicio,broker,0,0,0
+30.040862309364222,30,solicitud,bajada,0,0,0
+30.040862309364222,30,inicio de servicio,bajada,0,0,0
+30.04087590936422,30,fin de servicio,bajada,0,0,0
+30.08024633518589,30,recibido en receptor provisional,,0,0,0
+31.0,31,generado,,0,0,0
+31.0,31,solicitud,subida,0,0,0
+31.0,31,inicio de servicio,subida,0,0,0
+31.0000136,31,fin de servicio,subida,0,0,0
+31.040968066076694,31,solicitud,broker,0,0,0
+31.040968066076694,31,inicio de servicio,broker,0,0,0
+31.041968066076695,31,fin de servicio,broker,0,0,0
+31.041968066076695,31,solicitud,bajada,0,0,0
+31.041968066076695,31,inicio de servicio,bajada,0,0,0
+31.041981666076694,31,fin de servicio,bajada,0,0,0
+31.07793020837778,31,recibido en receptor provisional,,0,0,0
+32.0,32,generado,,0,0,0
+32.0,32,solicitud,subida,0,0,0
+32.0,32,inicio de servicio,subida,0,0,0
+32.0000136,32,fin de servicio,subida,0,0,0
+32.03975878160478,32,solicitud,broker,0,0,0
+32.03975878160478,32,inicio de servicio,broker,0,0,0
+32.04075878160478,32,fin de servicio,broker,0,0,0
+32.04075878160478,32,solicitud,bajada,0,0,0
+32.04075878160478,32,inicio de servicio,bajada,0,0,0
+32.04077238160478,32,fin de servicio,bajada,0,0,0
+32.07813501491126,32,recibido en receptor provisional,,0,0,0
+33.0,33,generado,,0,0,0
+33.0,33,solicitud,subida,0,0,0
+33.0,33,inicio de servicio,subida,0,0,0
+33.0000136,33,fin de servicio,subida,0,0,0
+33.04366813128632,33,solicitud,broker,0,0,0
+33.04366813128632,33,inicio de servicio,broker,0,0,0
+33.044668131286315,33,fin de servicio,broker,0,0,0
+33.044668131286315,33,solicitud,bajada,0,0,0
+33.044668131286315,33,inicio de servicio,bajada,0,0,0
+33.04468173128632,33,fin de servicio,bajada,0,0,0
+33.0890719334874,33,recibido en receptor provisional,,0,0,0
+34.0,34,generado,,0,0,0
+34.0,34,solicitud,subida,0,0,0
+34.0,34,inicio de servicio,subida,0,0,0
+34.0000136,34,fin de servicio,subida,0,0,0
+34.03567808804506,34,solicitud,broker,0,0,0
+34.03567808804506,34,inicio de servicio,broker,0,0,0
+34.03667808804506,34,fin de servicio,broker,0,0,0
+34.03667808804506,34,solicitud,bajada,0,0,0
+34.03667808804506,34,inicio de servicio,bajada,0,0,0
+34.03669168804506,34,fin de servicio,bajada,0,0,0
+34.073124657577154,34,recibido en receptor provisional,,0,0,0
+35.0,35,generado,,0,0,0
+35.0,35,solicitud,subida,0,0,0
+35.0,35,inicio de servicio,subida,0,0,0
+35.0000136,35,fin de servicio,subida,0,0,0
+35.042048308728404,35,solicitud,broker,0,0,0
+35.042048308728404,35,inicio de servicio,broker,0,0,0
+35.0430483087284,35,fin de servicio,broker,0,0,0
+35.0430483087284,35,solicitud,bajada,0,0,0
+35.0430483087284,35,inicio de servicio,bajada,0,0,0
+35.043061908728404,35,fin de servicio,bajada,0,0,0
+35.08377638054851,35,recibido en receptor provisional,,0,0,0
+36.0,36,generado,,0,0,0
+36.0,36,solicitud,subida,0,0,0
+36.0,36,inicio de servicio,subida,0,0,0
+36.0000136,36,fin de servicio,subida,0,0,0
+36.03520465999361,36,solicitud,broker,0,0,0
+36.03520465999361,36,inicio de servicio,broker,0,0,0
+36.03620465999361,36,fin de servicio,broker,0,0,0
+36.03620465999361,36,solicitud,bajada,0,0,0
+36.03620465999361,36,inicio de servicio,bajada,0,0,0
+36.03621825999361,36,fin de servicio,bajada,0,0,0
+36.078267196584584,36,recibido en receptor provisional,,0,0,0
+37.0,37,generado,,0,0,0
+37.0,37,solicitud,subida,0,0,0
+37.0,37,inicio de servicio,subida,0,0,0
+37.0000136,37,fin de servicio,subida,0,0,0
+37.04445292309652,37,solicitud,broker,0,0,0
+37.04445292309652,37,inicio de servicio,broker,0,0,0
+37.04545292309652,37,fin de servicio,broker,0,0,0
+37.04545292309652,37,solicitud,bajada,0,0,0
+37.04545292309652,37,inicio de servicio,bajada,0,0,0
+37.04546652309652,37,fin de servicio,bajada,0,0,0
+37.084697626607735,37,recibido en receptor provisional,,0,0,0
+38.0,38,generado,,0,0,0
+38.0,38,solicitud,subida,0,0,0
+38.0,38,inicio de servicio,subida,0,0,0
+38.0000136,38,fin de servicio,subida,0,0,0
+38.03848850517123,38,solicitud,broker,0,0,0
+38.03848850517123,38,inicio de servicio,broker,0,0,0
+38.03948850517123,38,fin de servicio,broker,0,0,0
+38.03948850517123,38,solicitud,bajada,0,0,0
+38.03948850517123,38,inicio de servicio,bajada,0,0,0
+38.03950210517123,38,fin de servicio,bajada,0,0,0
+38.080196120597265,38,recibido en receptor provisional,,0,0,0
+39.0,39,generado,,0,0,0
+39.0,39,solicitud,subida,0,0,0
+39.0,39,inicio de servicio,subida,0,0,0
+39.0000136,39,fin de servicio,subida,0,0,0
+39.04440495949843,39,solicitud,broker,0,0,0
+39.04440495949843,39,inicio de servicio,broker,0,0,0
+39.04540495949843,39,fin de servicio,broker,0,0,0
+39.04540495949843,39,solicitud,bajada,0,0,0
+39.04540495949843,39,inicio de servicio,bajada,0,0,0
+39.04541855949843,39,fin de servicio,bajada,0,0,0
+39.08305394544056,39,recibido en receptor provisional,,0,0,0
+40.0,40,generado,,0,0,0
+40.0,40,solicitud,subida,0,0,0
+40.0,40,inicio de servicio,subida,0,0,0
+40.0000136,40,fin de servicio,subida,0,0,0
+40.03803645190896,40,solicitud,broker,0,0,0
+40.03803645190896,40,inicio de servicio,broker,0,0,0
+40.039036451908956,40,fin de servicio,broker,0,0,0
+40.039036451908956,40,solicitud,bajada,0,0,0
+40.039036451908956,40,inicio de servicio,bajada,0,0,0
+40.03905005190896,40,fin de servicio,bajada,0,0,0
+40.075937157764514,40,recibido en receptor provisional,,0,0,0
+41.0,41,generado,,0,0,0
+41.0,41,solicitud,subida,0,0,0
+41.0,41,inicio de servicio,subida,0,0,0
+41.0000136,41,fin de servicio,subida,0,0,0
+41.041297775407884,41,solicitud,broker,0,0,0
+41.041297775407884,41,inicio de servicio,broker,0,0,0
+41.04229777540788,41,fin de servicio,broker,0,0,0
+41.04229777540788,41,solicitud,bajada,0,0,0
+41.04229777540788,41,inicio de servicio,bajada,0,0,0
+41.042311375407884,41,fin de servicio,bajada,0,0,0
+41.08200395124985,41,recibido en receptor provisional,,0,0,0
+42.0,42,generado,,0,0,0
+42.0,42,solicitud,subida,0,0,0
+42.0,42,inicio de servicio,subida,0,0,0
+42.0000136,42,fin de servicio,subida,0,0,0
+42.03757433654409,42,solicitud,broker,0,0,0
+42.03757433654409,42,inicio de servicio,broker,0,0,0
+42.03857433654409,42,fin de servicio,broker,0,0,0
+42.03857433654409,42,solicitud,bajada,0,0,0
+42.03857433654409,42,inicio de servicio,bajada,0,0,0
+42.03858793654409,42,fin de servicio,bajada,0,0,0
+42.07746688091855,42,recibido en receptor provisional,,0,0,0
+43.0,43,generado,,0,0,0
+43.0,43,solicitud,subida,0,0,0
+43.0,43,inicio de servicio,subida,0,0,0
+43.0000136,43,fin de servicio,subida,0,0,0
+43.03536138819922,43,solicitud,broker,0,0,0
+43.03536138819922,43,inicio de servicio,broker,0,0,0
+43.03636138819922,43,fin de servicio,broker,0,0,0
+43.03636138819922,43,solicitud,bajada,0,0,0
+43.03636138819922,43,inicio de servicio,bajada,0,0,0
+43.03637498819922,43,fin de servicio,bajada,0,0,0
+43.07449947679324,43,recibido en receptor provisional,,0,0,0
+44.0,44,generado,,0,0,0
+44.0,44,solicitud,subida,0,0,0
+44.0,44,inicio de servicio,subida,0,0,0
+44.0000136,44,fin de servicio,subida,0,0,0
+44.044842657753115,44,solicitud,broker,0,0,0
+44.044842657753115,44,inicio de servicio,broker,0,0,0
+44.04584265775311,44,fin de servicio,broker,0,0,0
+44.04584265775311,44,solicitud,bajada,0,0,0
+44.04584265775311,44,inicio de servicio,bajada,0,0,0
+44.045856257753115,44,fin de servicio,bajada,0,0,0
+44.08671669598871,44,recibido en receptor provisional,,0,0,0
+45.0,45,generado,,0,0,0
+45.0,45,solicitud,subida,0,0,0
+45.0,45,inicio de servicio,subida,0,0,0
+45.0000136,45,fin de servicio,subida,0,0,0
+45.03783943926034,45,solicitud,broker,0,0,0
+45.03783943926034,45,inicio de servicio,broker,0,0,0
+45.038839439260336,45,fin de servicio,broker,0,0,0
+45.038839439260336,45,solicitud,bajada,0,0,0
+45.038839439260336,45,inicio de servicio,bajada,0,0,0
+45.03885303926034,45,fin de servicio,bajada,0,0,0
+45.08321434031027,45,recibido en receptor provisional,,0,0,0
+46.0,46,generado,,0,0,0
+46.0,46,solicitud,subida,0,0,0
+46.0,46,inicio de servicio,subida,0,0,0
+46.0000136,46,fin de servicio,subida,0,0,0
+46.03859635733812,46,solicitud,broker,0,0,0
+46.03859635733812,46,inicio de servicio,broker,0,0,0
+46.03959635733812,46,fin de servicio,broker,0,0,0
+46.03959635733812,46,solicitud,bajada,0,0,0
+46.03959635733812,46,inicio de servicio,bajada,0,0,0
+46.03960995733812,46,fin de servicio,bajada,0,0,0
+46.07712530420152,46,recibido en receptor provisional,,0,0,0
+47.0,47,generado,,0,0,0
+47.0,47,solicitud,subida,0,0,0
+47.0,47,inicio de servicio,subida,0,0,0
+47.0000136,47,fin de servicio,subida,0,0,0
+47.03536499731739,47,solicitud,broker,0,0,0
+47.03536499731739,47,inicio de servicio,broker,0,0,0
+47.036364997317385,47,fin de servicio,broker,0,0,0
+47.036364997317385,47,solicitud,bajada,0,0,0
+47.036364997317385,47,inicio de servicio,bajada,0,0,0
+47.03637859731739,47,fin de servicio,bajada,0,0,0
+47.072840608637904,47,recibido en receptor provisional,,0,0,0
+48.0,48,generado,,0,0,0
+48.0,48,solicitud,subida,0,0,0
+48.0,48,inicio de servicio,subida,0,0,0
+48.0000136,48,fin de servicio,subida,0,0,0
+48.037003990941635,48,solicitud,broker,0,0,0
+48.037003990941635,48,inicio de servicio,broker,0,0,0
+48.03800399094163,48,fin de servicio,broker,0,0,0
+48.03800399094163,48,solicitud,bajada,0,0,0
+48.03800399094163,48,inicio de servicio,bajada,0,0,0
+48.038017590941635,48,fin de servicio,bajada,0,0,0
+48.07531794415953,48,recibido en receptor provisional,,0,0,0
+49.0,49,generado,,0,0,0
+49.0,49,solicitud,subida,0,0,0
+49.0,49,inicio de servicio,subida,0,0,0
+49.0000136,49,fin de servicio,subida,0,0,0
+49.04374340963444,49,solicitud,broker,0,0,0
+49.04374340963444,49,inicio de servicio,broker,0,0,0
+49.044743409634435,49,fin de servicio,broker,0,0,0
+49.044743409634435,49,solicitud,bajada,0,0,0
+49.044743409634435,49,inicio de servicio,bajada,0,0,0
+49.04475700963444,49,fin de servicio,bajada,0,0,0
+49.08240247351701,49,recibido en receptor provisional,,0,0,0
+50.0,50,generado,,0,0,0
+50.0,50,solicitud,subida,0,0,0
+50.0,50,inicio de servicio,subida,0,0,0
+50.0000136,50,fin de servicio,subida,0,0,0
+50.0374996062605,50,solicitud,broker,0,0,0
+50.0374996062605,50,inicio de servicio,broker,0,0,0
+50.0384996062605,50,fin de servicio,broker,0,0,0
+50.0384996062605,50,solicitud,bajada,0,0,0
+50.0384996062605,50,inicio de servicio,bajada,0,0,0
+50.038513206260504,50,fin de servicio,bajada,0,0,0
+50.07955247133286,50,recibido en receptor provisional,,0,0,0
+51.0,51,generado,,0,0,0
+51.0,51,solicitud,subida,0,0,0
+51.0,51,inicio de servicio,subida,0,0,0
+51.0000136,51,fin de servicio,subida,0,0,0
+51.044184990111155,51,solicitud,broker,0,0,0
+51.044184990111155,51,inicio de servicio,broker,0,0,0
+51.04518499011115,51,fin de servicio,broker,0,0,0
+51.04518499011115,51,solicitud,bajada,0,0,0
+51.04518499011115,51,inicio de servicio,bajada,0,0,0
+51.045198590111156,51,fin de servicio,bajada,0,0,0
+51.08311233841432,51,recibido en receptor provisional,,0,0,0
+52.0,52,generado,,0,0,0
+52.0,52,solicitud,subida,0,0,0
+52.0,52,inicio de servicio,subida,0,0,0
+52.0000136,52,fin de servicio,subida,0,0,0
+52.04262948140544,52,solicitud,broker,0,0,0
+52.04262948140544,52,inicio de servicio,broker,0,0,0
+52.04362948140544,52,fin de servicio,broker,0,0,0
+52.04362948140544,52,solicitud,bajada,0,0,0
+52.04362948140544,52,inicio de servicio,bajada,0,0,0
+52.04364308140544,52,fin de servicio,bajada,0,0,0
+52.08233043998087,52,recibido en receptor provisional,,0,0,0
+53.0,53,generado,,0,0,0
+53.0,53,solicitud,subida,0,0,0
+53.0,53,inicio de servicio,subida,0,0,0
+53.0000136,53,fin de servicio,subida,0,0,0
+53.04062473379312,53,solicitud,broker,0,0,0
+53.04062473379312,53,inicio de servicio,broker,0,0,0
+53.04162473379312,53,fin de servicio,broker,0,0,0
+53.04162473379312,53,solicitud,bajada,0,0,0
+53.04162473379312,53,inicio de servicio,bajada,0,0,0
+53.041638333793124,53,fin de servicio,bajada,0,0,0
+53.082596714547506,53,recibido en receptor provisional,,0,0,0
+54.0,54,generado,,0,0,0
+54.0,54,solicitud,subida,0,0,0
+54.0,54,inicio de servicio,subida,0,0,0
+54.0000136,54,fin de servicio,subida,0,0,0
+54.044436713225934,54,solicitud,broker,0,0,0
+54.044436713225934,54,inicio de servicio,broker,0,0,0
+54.04543671322593,54,fin de servicio,broker,0,0,0
+54.04543671322593,54,solicitud,bajada,0,0,0
+54.04543671322593,54,inicio de servicio,bajada,0,0,0
+54.045450313225935,54,fin de servicio,bajada,0,0,0
+54.088022896719394,54,recibido en receptor provisional,,0,0,0
+55.0,55,generado,,0,0,0
+55.0,55,solicitud,subida,0,0,0
+55.0,55,inicio de servicio,subida,0,0,0
+55.0000136,55,fin de servicio,subida,0,0,0
+55.040095108729204,55,solicitud,broker,0,0,0
+55.040095108729204,55,inicio de servicio,broker,0,0,0
+55.0410951087292,55,fin de servicio,broker,0,0,0
+55.0410951087292,55,solicitud,bajada,0,0,0
+55.0410951087292,55,inicio de servicio,bajada,0,0,0
+55.041108708729205,55,fin de servicio,bajada,0,0,0
+55.08452268085346,55,recibido en receptor provisional,,0,0,0
+56.0,56,generado,,0,0,0
+56.0,56,solicitud,subida,0,0,0
+56.0,56,inicio de servicio,subida,0,0,0
+56.0000136,56,fin de servicio,subida,0,0,0
+56.03867829923335,56,solicitud,broker,0,0,0
+56.03867829923335,56,inicio de servicio,broker,0,0,0
+56.039678299233344,56,fin de servicio,broker,0,0,0
+56.039678299233344,56,solicitud,bajada,0,0,0
+56.039678299233344,56,inicio de servicio,bajada,0,0,0
+56.03969189923335,56,fin de servicio,bajada,0,0,0
+56.078533001151335,56,recibido en receptor provisional,,0,0,0
+57.0,57,generado,,0,0,0
+57.0,57,solicitud,subida,0,0,0
+57.0,57,inicio de servicio,subida,0,0,0
+57.0000136,57,fin de servicio,subida,0,0,0
+57.04461335960762,57,solicitud,broker,0,0,0
+57.04461335960762,57,inicio de servicio,broker,0,0,0
+57.045613359607614,57,fin de servicio,broker,0,0,0
+57.045613359607614,57,solicitud,bajada,0,0,0
+57.045613359607614,57,inicio de servicio,bajada,0,0,0
+57.04562695960762,57,fin de servicio,bajada,0,0,0
+57.08608637973382,57,recibido en receptor provisional,,0,0,0
+58.0,58,generado,,0,0,0
+58.0,58,solicitud,subida,0,0,0
+58.0,58,inicio de servicio,subida,0,0,0
+58.0000136,58,fin de servicio,subida,0,0,0
+58.04274800576419,58,solicitud,broker,0,0,0
+58.04274800576419,58,inicio de servicio,broker,0,0,0
+58.043748005764186,58,fin de servicio,broker,0,0,0
+58.043748005764186,58,solicitud,bajada,0,0,0
+58.043748005764186,58,inicio de servicio,bajada,0,0,0
+58.04376160576419,58,fin de servicio,bajada,0,0,0
+58.08190609122948,58,recibido en receptor provisional,,0,0,0
+59.0,59,generado,,0,0,0
+59.0,59,solicitud,subida,0,0,0
+59.0,59,inicio de servicio,subida,0,0,0
+59.0000136,59,fin de servicio,subida,0,0,0
+59.044166508694175,59,solicitud,broker,0,0,0
+59.044166508694175,59,inicio de servicio,broker,0,0,0
+59.04516650869417,59,fin de servicio,broker,0,0,0
+59.04516650869417,59,solicitud,bajada,0,0,0
+59.04516650869417,59,inicio de servicio,bajada,0,0,0
+59.045180108694176,59,fin de servicio,bajada,0,0,0
+59.086307447851006,59,recibido en receptor provisional,,0,0,0
+60.0,60,generado,,0,0,0
+60.0,60,solicitud,subida,0,0,0
+60.0,60,inicio de servicio,subida,0,0,0
+60.0000136,60,fin de servicio,subida,0,0,0
+60.037486697044464,60,solicitud,broker,0,0,0
+60.037486697044464,60,inicio de servicio,broker,0,0,0
+60.03848669704446,60,fin de servicio,broker,0,0,0
+60.03848669704446,60,solicitud,bajada,0,0,0
+60.03848669704446,60,inicio de servicio,bajada,0,0,0
+60.038500297044465,60,fin de servicio,bajada,0,0,0
+60.08283666939234,60,recibido en receptor provisional,,0,0,0
+61.0,61,generado,,0,0,0
+61.0,61,solicitud,subida,0,0,0
+61.0,61,inicio de servicio,subida,0,0,0
+61.0000136,61,fin de servicio,subida,0,0,0
+61.03970283596841,61,solicitud,broker,0,0,0
+61.03970283596841,61,inicio de servicio,broker,0,0,0
+61.04070283596841,61,fin de servicio,broker,0,0,0
+61.04070283596841,61,solicitud,bajada,0,0,0
+61.04070283596841,61,inicio de servicio,bajada,0,0,0
+61.04071643596841,61,fin de servicio,bajada,0,0,0
+61.07911076962079,61,recibido en receptor provisional,,0,0,0
+62.0,62,generado,,0,0,0
+62.0,62,solicitud,subida,0,0,0
+62.0,62,inicio de servicio,subida,0,0,0
+62.0000136,62,fin de servicio,subida,0,0,0
+62.037641126209294,62,solicitud,broker,0,0,0
+62.037641126209294,62,inicio de servicio,broker,0,0,0
+62.03864112620929,62,fin de servicio,broker,0,0,0
+62.03864112620929,62,solicitud,bajada,0,0,0
+62.03864112620929,62,inicio de servicio,bajada,0,0,0
+62.038654726209295,62,fin de servicio,bajada,0,0,0
+62.07468718729595,62,recibido en receptor provisional,,0,0,0
+63.0,63,generado,,0,0,0
+63.0,63,solicitud,subida,0,0,0
+63.0,63,inicio de servicio,subida,0,0,0
+63.0000136,63,fin de servicio,subida,0,0,0
+63.03702002861833,63,solicitud,broker,0,0,0
+63.03702002861833,63,inicio de servicio,broker,0,0,0
+63.03802002861833,63,fin de servicio,broker,0,0,0
+63.03802002861833,63,solicitud,bajada,0,0,0
+63.03802002861833,63,inicio de servicio,bajada,0,0,0
+63.03803362861833,63,fin de servicio,bajada,0,0,0
+63.07995605587984,63,recibido en receptor provisional,,0,0,0
+64.0,64,generado,,0,0,0
+64.0,64,solicitud,subida,0,0,0
+64.0,64,inicio de servicio,subida,0,0,0
+64.0000136,64,fin de servicio,subida,0,0,0
+64.03642000536037,64,solicitud,broker,0,0,0
+64.03642000536037,64,inicio de servicio,broker,0,0,0
+64.03742000536037,64,fin de servicio,broker,0,0,0
+64.03742000536037,64,solicitud,bajada,0,0,0
+64.03742000536037,64,inicio de servicio,bajada,0,0,0
+64.03743360536038,64,fin de servicio,bajada,0,0,0
+64.07502076027683,64,recibido en receptor provisional,,0,0,0
+65.0,65,generado,,0,0,0
+65.0,65,solicitud,subida,0,0,0
+65.0,65,inicio de servicio,subida,0,0,0
+65.0000136,65,fin de servicio,subida,0,0,0
+65.03948738681046,65,solicitud,broker,0,0,0
+65.03948738681046,65,inicio de servicio,broker,0,0,0
+65.04048738681047,65,fin de servicio,broker,0,0,0
+65.04048738681047,65,solicitud,bajada,0,0,0
+65.04048738681047,65,inicio de servicio,bajada,0,0,0
+65.04050098681047,65,fin de servicio,bajada,0,0,0
+65.08094789080641,65,recibido en receptor provisional,,0,0,0
+66.0,66,generado,,0,0,0
+66.0,66,solicitud,subida,0,0,0
+66.0,66,inicio de servicio,subida,0,0,0
+66.0000136,66,fin de servicio,subida,0,0,0
+66.03881865964539,66,solicitud,broker,0,0,0
+66.03881865964539,66,inicio de servicio,broker,0,0,0
+66.03981865964539,66,fin de servicio,broker,0,0,0
+66.03981865964539,66,solicitud,bajada,0,0,0
+66.03981865964539,66,inicio de servicio,bajada,0,0,0
+66.0398322596454,66,fin de servicio,bajada,0,0,0
+66.08268320643734,66,recibido en receptor provisional,,0,0,0
+67.0,67,generado,,0,0,0
+67.0,67,solicitud,subida,0,0,0
+67.0,67,inicio de servicio,subida,0,0,0
+67.0000136,67,fin de servicio,subida,0,0,0
+67.03758141151175,67,solicitud,broker,0,0,0
+67.03758141151175,67,inicio de servicio,broker,0,0,0
+67.03858141151176,67,fin de servicio,broker,0,0,0
+67.03858141151176,67,solicitud,bajada,0,0,0
+67.03858141151176,67,inicio de servicio,bajada,0,0,0
+67.03859501151176,67,fin de servicio,bajada,0,0,0
+67.07728101173531,67,recibido en receptor provisional,,0,0,0
+68.0,68,generado,,0,0,0
+68.0,68,solicitud,subida,0,0,0
+68.0,68,inicio de servicio,subida,0,0,0
+68.0000136,68,fin de servicio,subida,0,0,0
+68.03926366139417,68,solicitud,broker,0,0,0
+68.03926366139417,68,inicio de servicio,broker,0,0,0
+68.04026366139418,68,fin de servicio,broker,0,0,0
+68.04026366139418,68,solicitud,bajada,0,0,0
+68.04026366139418,68,inicio de servicio,bajada,0,0,0
+68.04027726139418,68,fin de servicio,bajada,0,0,0
+68.07656595847635,68,recibido en receptor provisional,,0,0,0
+69.0,69,generado,,0,0,0
+69.0,69,solicitud,subida,0,0,0
+69.0,69,inicio de servicio,subida,0,0,0
+69.0000136,69,fin de servicio,subida,0,0,0
+69.03723673807086,69,solicitud,broker,0,0,0
+69.03723673807086,69,inicio de servicio,broker,0,0,0
+69.03823673807086,69,fin de servicio,broker,0,0,0
+69.03823673807086,69,solicitud,bajada,0,0,0
+69.03823673807086,69,inicio de servicio,bajada,0,0,0
+69.03825033807087,69,fin de servicio,bajada,0,0,0
+69.0747151932805,69,recibido en receptor provisional,,0,0,0
+70.0,70,generado,,0,0,0
+70.0,70,solicitud,subida,0,0,0
+70.0,70,inicio de servicio,subida,0,0,0
+70.0000136,70,fin de servicio,subida,0,0,0
+70.04226757334784,70,solicitud,broker,0,0,0
+70.04226757334784,70,inicio de servicio,broker,0,0,0
+70.04326757334785,70,fin de servicio,broker,0,0,0
+70.04326757334785,70,solicitud,bajada,0,0,0
+70.04326757334785,70,inicio de servicio,bajada,0,0,0
+70.04328117334785,70,fin de servicio,bajada,0,0,0
+70.07974677065086,70,recibido en receptor provisional,,0,0,0
+71.0,71,generado,,0,0,0
+71.0,71,solicitud,subida,0,0,0
+71.0,71,inicio de servicio,subida,0,0,0
+71.0000136,71,fin de servicio,subida,0,0,0
+71.04169434048372,71,solicitud,broker,0,0,0
+71.04169434048372,71,inicio de servicio,broker,0,0,0
+71.04269434048372,71,fin de servicio,broker,0,0,0
+71.04269434048372,71,solicitud,bajada,0,0,0
+71.04269434048372,71,inicio de servicio,bajada,0,0,0
+71.04270794048372,71,fin de servicio,bajada,0,0,0
+71.07992831117733,71,recibido en receptor provisional,,0,0,0
+72.0,72,generado,,0,0,0
+72.0,72,solicitud,subida,0,0,0
+72.0,72,inicio de servicio,subida,0,0,0
+72.0000136,72,fin de servicio,subida,0,0,0
+72.0414831151791,72,solicitud,broker,0,0,0
+72.0414831151791,72,inicio de servicio,broker,0,0,0
+72.04248311517911,72,fin de servicio,broker,0,0,0
+72.04248311517911,72,solicitud,bajada,0,0,0
+72.04248311517911,72,inicio de servicio,bajada,0,0,0
+72.04249671517911,72,fin de servicio,bajada,0,0,0
+72.08406201777609,72,recibido en receptor provisional,,0,0,0
+73.0,73,generado,,0,0,0
+73.0,73,solicitud,subida,0,0,0
+73.0,73,inicio de servicio,subida,0,0,0
+73.0000136,73,fin de servicio,subida,0,0,0
+73.03854836144335,73,solicitud,broker,0,0,0
+73.03854836144335,73,inicio de servicio,broker,0,0,0
+73.03954836144335,73,fin de servicio,broker,0,0,0
+73.03954836144335,73,solicitud,bajada,0,0,0
+73.03954836144335,73,inicio de servicio,bajada,0,0,0
+73.03956196144335,73,fin de servicio,bajada,0,0,0
+73.08389291142005,73,recibido en receptor provisional,,0,0,0
+74.0,74,generado,,0,0,0
+74.0,74,solicitud,subida,0,0,0
+74.0,74,inicio de servicio,subida,0,0,0
+74.0000136,74,fin de servicio,subida,0,0,0
+74.04158149845402,74,solicitud,broker,0,0,0
+74.04158149845402,74,inicio de servicio,broker,0,0,0
+74.04258149845403,74,fin de servicio,broker,0,0,0
+74.04258149845403,74,solicitud,bajada,0,0,0
+74.04258149845403,74,inicio de servicio,bajada,0,0,0
+74.04259509845403,74,fin de servicio,bajada,0,0,0
+74.0831680234929,74,recibido en receptor provisional,,0,0,0
+75.0,75,generado,,0,0,0
+75.0,75,solicitud,subida,0,0,0
+75.0,75,inicio de servicio,subida,0,0,0
+75.0000136,75,fin de servicio,subida,0,0,0
+75.03547649418473,75,solicitud,broker,0,0,0
+75.03547649418473,75,inicio de servicio,broker,0,0,0
+75.03647649418474,75,fin de servicio,broker,0,0,0
+75.03647649418474,75,solicitud,bajada,0,0,0
+75.03647649418474,75,inicio de servicio,bajada,0,0,0
+75.03649009418474,75,fin de servicio,bajada,0,0,0
+75.07555540159841,75,recibido en receptor provisional,,0,0,0
+76.0,76,generado,,0,0,0
+76.0,76,solicitud,subida,0,0,0
+76.0,76,inicio de servicio,subida,0,0,0
+76.0000136,76,fin de servicio,subida,0,0,0
+76.03767425306658,76,solicitud,broker,0,0,0
+76.03767425306658,76,inicio de servicio,broker,0,0,0
+76.03867425306659,76,fin de servicio,broker,0,0,0
+76.03867425306659,76,solicitud,bajada,0,0,0
+76.03867425306659,76,inicio de servicio,bajada,0,0,0
+76.03868785306659,76,fin de servicio,bajada,0,0,0
+76.07838643888401,76,recibido en receptor provisional,,0,0,0
+77.0,77,generado,,0,0,0
+77.0,77,solicitud,subida,0,0,0
+77.0,77,inicio de servicio,subida,0,0,0
+77.0000136,77,fin de servicio,subida,0,0,0
+77.04434690007469,77,solicitud,broker,0,0,0
+77.04434690007469,77,inicio de servicio,broker,0,0,0
+77.04534690007469,77,fin de servicio,broker,0,0,0
+77.04534690007469,77,solicitud,bajada,0,0,0
+77.04534690007469,77,inicio de servicio,bajada,0,0,0
+77.0453605000747,77,fin de servicio,bajada,0,0,0
+77.08900007974076,77,recibido en receptor provisional,,0,0,0
+78.0,78,generado,,0,0,0
+78.0,78,solicitud,subida,0,0,0
+78.0,78,inicio de servicio,subida,0,0,0
+78.0000136,78,fin de servicio,subida,0,0,0
+78.03563265160507,78,solicitud,broker,0,0,0
+78.03563265160507,78,inicio de servicio,broker,0,0,0
+78.03663265160507,78,fin de servicio,broker,0,0,0
+78.03663265160507,78,solicitud,bajada,0,0,0
+78.03663265160507,78,inicio de servicio,bajada,0,0,0
+78.03664625160508,78,fin de servicio,bajada,0,0,0
+78.07844750856285,78,recibido en receptor provisional,,0,0,0
+79.0,79,generado,,0,0,0
+79.0,79,solicitud,subida,0,0,0
+79.0,79,inicio de servicio,subida,0,0,0
+79.0000136,79,fin de servicio,subida,0,0,0
+79.0443556192337,79,solicitud,broker,0,0,0
+79.0443556192337,79,inicio de servicio,broker,0,0,0
+79.0453556192337,79,fin de servicio,broker,0,0,0
+79.0453556192337,79,solicitud,bajada,0,0,0
+79.0453556192337,79,inicio de servicio,bajada,0,0,0
+79.0453692192337,79,fin de servicio,bajada,0,0,0
+79.08579363431717,79,recibido en receptor provisional,,0,0,0
+80.0,80,generado,,0,0,0
+80.0,80,solicitud,subida,0,0,0
+80.0,80,inicio de servicio,subida,0,0,0
+80.0000136,80,fin de servicio,subida,0,0,0
+80.03598112583389,80,solicitud,broker,0,0,0
+80.03598112583389,80,inicio de servicio,broker,0,0,0
+80.03698112583389,80,fin de servicio,broker,0,0,0
+80.03698112583389,80,solicitud,bajada,0,0,0
+80.03698112583389,80,inicio de servicio,bajada,0,0,0
+80.03699472583389,80,fin de servicio,bajada,0,0,0
+80.08066253900598,80,recibido en receptor provisional,,0,0,0
+81.0,81,generado,,0,0,0
+81.0,81,solicitud,subida,0,0,0
+81.0,81,inicio de servicio,subida,0,0,0
+81.0000136,81,fin de servicio,subida,0,0,0
+81.03927699975296,81,solicitud,broker,0,0,0
+81.03927699975296,81,inicio de servicio,broker,0,0,0
+81.04027699975296,81,fin de servicio,broker,0,0,0
+81.04027699975296,81,solicitud,bajada,0,0,0
+81.04027699975296,81,inicio de servicio,bajada,0,0,0
+81.04029059975296,81,fin de servicio,bajada,0,0,0
+81.08509609408492,81,recibido en receptor provisional,,0,0,0
+82.0,82,generado,,0,0,0
+82.0,82,solicitud,subida,0,0,0
+82.0,82,inicio de servicio,subida,0,0,0
+82.0000136,82,fin de servicio,subida,0,0,0
+82.04375826948595,82,solicitud,broker,0,0,0
+82.04375826948595,82,inicio de servicio,broker,0,0,0
+82.04475826948595,82,fin de servicio,broker,0,0,0
+82.04475826948595,82,solicitud,bajada,0,0,0
+82.04475826948595,82,inicio de servicio,bajada,0,0,0
+82.04477186948596,82,fin de servicio,bajada,0,0,0
+82.08806063664832,82,recibido en receptor provisional,,0,0,0
+83.0,83,generado,,0,0,0
+83.0,83,solicitud,subida,0,0,0
+83.0,83,inicio de servicio,subida,0,0,0
+83.0000136,83,fin de servicio,subida,0,0,0
+83.04432590874143,83,solicitud,broker,0,0,0
+83.04432590874143,83,inicio de servicio,broker,0,0,0
+83.04532590874143,83,fin de servicio,broker,0,0,0
+83.04532590874143,83,solicitud,bajada,0,0,0
+83.04532590874143,83,inicio de servicio,bajada,0,0,0
+83.04533950874143,83,fin de servicio,bajada,0,0,0
+83.08102075898582,83,recibido en receptor provisional,,0,0,0
+84.0,84,generado,,0,0,0
+84.0,84,solicitud,subida,0,0,0
+84.0,84,inicio de servicio,subida,0,0,0
+84.0000136,84,fin de servicio,subida,0,0,0
+84.04295136353275,84,solicitud,broker,0,0,0
+84.04295136353275,84,inicio de servicio,broker,0,0,0
+84.04395136353276,84,fin de servicio,broker,0,0,0
+84.04395136353276,84,solicitud,bajada,0,0,0
+84.04395136353276,84,inicio de servicio,bajada,0,0,0
+84.04396496353276,84,fin de servicio,bajada,0,0,0
+84.08201679138406,84,recibido en receptor provisional,,0,0,0
+85.0,85,generado,,0,0,0
+85.0,85,solicitud,subida,0,0,0
+85.0,85,inicio de servicio,subida,0,0,0
+85.0000136,85,fin de servicio,subida,0,0,0
+85.03636542335855,85,solicitud,broker,0,0,0
+85.03636542335855,85,inicio de servicio,broker,0,0,0
+85.03736542335855,85,fin de servicio,broker,0,0,0
+85.03736542335855,85,solicitud,bajada,0,0,0
+85.03736542335855,85,inicio de servicio,bajada,0,0,0
+85.03737902335855,85,fin de servicio,bajada,0,0,0
+85.07617044276675,85,recibido en receptor provisional,,0,0,0
+86.0,86,generado,,0,0,0
+86.0,86,solicitud,subida,0,0,0
+86.0,86,inicio de servicio,subida,0,0,0
+86.0000136,86,fin de servicio,subida,0,0,0
+86.04090266252011,86,solicitud,broker,0,0,0
+86.04090266252011,86,inicio de servicio,broker,0,0,0
+86.04190266252012,86,fin de servicio,broker,0,0,0
+86.04190266252012,86,solicitud,bajada,0,0,0
+86.04190266252012,86,inicio de servicio,bajada,0,0,0
+86.04191626252012,86,fin de servicio,bajada,0,0,0
+86.07696499295935,86,recibido en receptor provisional,,0,0,0
+87.0,87,generado,,0,0,0
+87.0,87,solicitud,subida,0,0,0
+87.0,87,inicio de servicio,subida,0,0,0
+87.0000136,87,fin de servicio,subida,0,0,0
+87.03951011155388,87,solicitud,broker,0,0,0
+87.03951011155388,87,inicio de servicio,broker,0,0,0
+87.04051011155389,87,fin de servicio,broker,0,0,0
+87.04051011155389,87,solicitud,bajada,0,0,0
+87.04051011155389,87,inicio de servicio,bajada,0,0,0
+87.04052371155389,87,fin de servicio,bajada,0,0,0
+87.08336632813166,87,recibido en receptor provisional,,0,0,0
+88.0,88,generado,,0,0,0
+88.0,88,solicitud,subida,0,0,0
+88.0,88,inicio de servicio,subida,0,0,0
+88.0000136,88,fin de servicio,subida,0,0,0
+88.03996651871714,88,solicitud,broker,0,0,0
+88.03996651871714,88,inicio de servicio,broker,0,0,0
+88.04096651871714,88,fin de servicio,broker,0,0,0
+88.04096651871714,88,solicitud,bajada,0,0,0
+88.04096651871714,88,inicio de servicio,bajada,0,0,0
+88.04098011871714,88,fin de servicio,bajada,0,0,0
+88.0812616058259,88,recibido en receptor provisional,,0,0,0
+89.0,89,generado,,0,0,0
+89.0,89,solicitud,subida,0,0,0
+89.0,89,inicio de servicio,subida,0,0,0
+89.0000136,89,fin de servicio,subida,0,0,0
+89.03797655337985,89,solicitud,broker,0,0,0
+89.03797655337985,89,inicio de servicio,broker,0,0,0
+89.03897655337985,89,fin de servicio,broker,0,0,0
+89.03897655337985,89,solicitud,bajada,0,0,0
+89.03897655337985,89,inicio de servicio,bajada,0,0,0
+89.03899015337986,89,fin de servicio,bajada,0,0,0
+89.08370444650747,89,recibido en receptor provisional,,0,0,0
+90.0,90,generado,,0,0,0
+90.0,90,solicitud,subida,0,0,0
+90.0,90,inicio de servicio,subida,0,0,0
+90.0000136,90,fin de servicio,subida,0,0,0
+90.0374953275466,90,solicitud,broker,0,0,0
+90.0374953275466,90,inicio de servicio,broker,0,0,0
+90.0384953275466,90,fin de servicio,broker,0,0,0
+90.0384953275466,90,solicitud,bajada,0,0,0
+90.0384953275466,90,inicio de servicio,bajada,0,0,0
+90.0385089275466,90,fin de servicio,bajada,0,0,0
+90.08032045043227,90,recibido en receptor provisional,,0,0,0
+91.0,91,generado,,0,0,0
+91.0,91,solicitud,subida,0,0,0
+91.0,91,inicio de servicio,subida,0,0,0
+91.0000136,91,fin de servicio,subida,0,0,0
+91.04147197891908,91,solicitud,broker,0,0,0
+91.04147197891908,91,inicio de servicio,broker,0,0,0
+91.04247197891908,91,fin de servicio,broker,0,0,0
+91.04247197891908,91,solicitud,bajada,0,0,0
+91.04247197891908,91,inicio de servicio,bajada,0,0,0
+91.04248557891908,91,fin de servicio,bajada,0,0,0
+91.07749134101546,91,recibido en receptor provisional,,0,0,0
+92.0,92,generado,,0,0,0
+92.0,92,solicitud,subida,0,0,0
+92.0,92,inicio de servicio,subida,0,0,0
+92.0000136,92,fin de servicio,subida,0,0,0
+92.04497856072385,92,solicitud,broker,0,0,0
+92.04497856072385,92,inicio de servicio,broker,0,0,0
+92.04597856072385,92,fin de servicio,broker,0,0,0
+92.04597856072385,92,solicitud,bajada,0,0,0
+92.04597856072385,92,inicio de servicio,bajada,0,0,0
+92.04599216072386,92,fin de servicio,bajada,0,0,0
+92.08334677677911,92,recibido en receptor provisional,,0,0,0
+93.0,93,generado,,0,0,0
+93.0,93,solicitud,subida,0,0,0
+93.0,93,inicio de servicio,subida,0,0,0
+93.0000136,93,fin de servicio,subida,0,0,0
+93.04490198501333,93,solicitud,broker,0,0,0
+93.04490198501333,93,inicio de servicio,broker,0,0,0
+93.04590198501333,93,fin de servicio,broker,0,0,0
+93.04590198501333,93,solicitud,bajada,0,0,0
+93.04590198501333,93,inicio de servicio,bajada,0,0,0
+93.04591558501333,93,fin de servicio,bajada,0,0,0
+93.09019860516386,93,recibido en receptor provisional,,0,0,0
+94.0,94,generado,,0,0,0
+94.0,94,solicitud,subida,0,0,0
+94.0,94,inicio de servicio,subida,0,0,0
+94.0000136,94,fin de servicio,subida,0,0,0
+94.04402328626973,94,solicitud,broker,0,0,0
+94.04402328626973,94,inicio de servicio,broker,0,0,0
+94.04502328626974,94,fin de servicio,broker,0,0,0
+94.04502328626974,94,solicitud,bajada,0,0,0
+94.04502328626974,94,inicio de servicio,bajada,0,0,0
+94.04503688626974,94,fin de servicio,bajada,0,0,0
+94.08858944611664,94,recibido en receptor provisional,,0,0,0
+95.0,95,generado,,0,0,0
+95.0,95,solicitud,subida,0,0,0
+95.0,95,inicio de servicio,subida,0,0,0
+95.0000136,95,fin de servicio,subida,0,0,0
+95.03899111617302,95,solicitud,broker,0,0,0
+95.03899111617302,95,inicio de servicio,broker,0,0,0
+95.03999111617303,95,fin de servicio,broker,0,0,0
+95.03999111617303,95,solicitud,bajada,0,0,0
+95.03999111617303,95,inicio de servicio,bajada,0,0,0
+95.04000471617303,95,fin de servicio,bajada,0,0,0
+95.07945885805013,95,recibido en receptor provisional,,0,0,0
+96.0,96,generado,,0,0,0
+96.0,96,solicitud,subida,0,0,0
+96.0,96,inicio de servicio,subida,0,0,0
+96.0000136,96,fin de servicio,subida,0,0,0
+96.03847107833882,96,solicitud,broker,0,0,0
+96.03847107833882,96,inicio de servicio,broker,0,0,0
+96.03947107833882,96,fin de servicio,broker,0,0,0
+96.03947107833882,96,solicitud,bajada,0,0,0
+96.03947107833882,96,inicio de servicio,bajada,0,0,0
+96.03948467833882,96,fin de servicio,bajada,0,0,0
+96.08384466224001,96,recibido en receptor provisional,,0,0,0
+97.0,97,generado,,0,0,0
+97.0,97,solicitud,subida,0,0,0
+97.0,97,inicio de servicio,subida,0,0,0
+97.0000136,97,fin de servicio,subida,0,0,0
+97.03530618491489,97,solicitud,broker,0,0,0
+97.03530618491489,97,inicio de servicio,broker,0,0,0
+97.03630618491489,97,fin de servicio,broker,0,0,0
+97.03630618491489,97,solicitud,bajada,0,0,0
+97.03630618491489,97,inicio de servicio,bajada,0,0,0
+97.0363197849149,97,fin de servicio,bajada,0,0,0
+97.0726883607771,97,recibido en receptor provisional,,0,0,0
+98.0,98,generado,,0,0,0
+98.0,98,solicitud,subida,0,0,0
+98.0,98,inicio de servicio,subida,0,0,0
+98.0000136,98,fin de servicio,subida,0,0,0
+98.04457769927954,98,solicitud,broker,0,0,0
+98.04457769927954,98,inicio de servicio,broker,0,0,0
+98.04557769927955,98,fin de servicio,broker,0,0,0
+98.04557769927955,98,solicitud,bajada,0,0,0
+98.04557769927955,98,inicio de servicio,bajada,0,0,0
+98.04559129927955,98,fin de servicio,bajada,0,0,0
+98.0886558947232,98,recibido en receptor provisional,,0,0,0
+99.0,99,generado,,0,0,0
+99.0,99,solicitud,subida,0,0,0
+99.0,99,inicio de servicio,subida,0,0,0
+99.0000136,99,fin de servicio,subida,0,0,0
+99.04207401025451,99,solicitud,broker,0,0,0
+99.04207401025451,99,inicio de servicio,broker,0,0,0
+99.04307401025451,99,fin de servicio,broker,0,0,0
+99.04307401025451,99,solicitud,bajada,0,0,0
+99.04307401025451,99,inicio de servicio,bajada,0,0,0
+99.04308761025452,99,fin de servicio,bajada,0,0,0
+99.08776654173042,99,recibido en receptor provisional,,0,0,0
